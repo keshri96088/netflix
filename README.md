@@ -8,4 +8,4 @@ Amit Kumar
 # Demo
 The app is deployed using Github
 
-image.png
+# Preview
