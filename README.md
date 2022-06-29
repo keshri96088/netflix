@@ -17,5 +17,4 @@ The app is deployed using Github https://amitkr1224.github.io/netflix-clone/
 
 ![image](https://user-images.githubusercontent.com/88556839/176484402-f5d0e434-96d8-4605-9e44-6ac997db8a46.png)
 
-![image](https://user-images.githubusercontent.com/88556839/176485207-52d84205-8fa1-427f-8ba5-fa04ad405bd0.png)
 
